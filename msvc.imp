@@ -1,3 +1,7 @@
 [
-  { include: ["<vcruntime_new.h>", "private", "<new>", "public" ] }
+  { include: ["<vcruntime_exception.h>", "private", "<exception>", "public" ] },
+  { include: ["<vcruntime_new.h>", "private", "<new>", "public" ] },
+  { include: ["<vcruntime_new_debug.h>", "private", "<new>", "public" ] },
+  { include: ["<vcruntime_string.h>", "private", "<cstring>", "public" ] },
+  { include: ["<vcruntime_typeinfo.h>", "private", "<typeinfo>", "public" ] }
 ]

@@ -14,5 +14,5 @@ https://include-what-you-use.org/downloads/include-what-you-use-0.7-x86-win32.zi
 
 ## Mapping files
 
-* stl.c.headers.mp 
-Mapping for C++ wrappers around C files, straight from the [iwyu repository](https://raw.githubusercontent.com/include-what-you-use/include-what-you-use/master/stl.c.headers.imp)
+* **stl.c.headers.mp** maps C files to C++ wrappers, straight from the [iwyu repository](https://raw.githubusercontent.com/include-what-you-use/include-what-you-use/master/stl.c.headers.imp)
+* **msvc.imp** maps MSVC internal files to public files
