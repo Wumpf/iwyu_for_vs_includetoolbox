@@ -1,0 +1,3 @@
+[
+  { include: ["<vcruntime_new.h>", "private", "<new>", "public" ] }
+]
