@@ -14,4 +14,5 @@ https://include-what-you-use.org/downloads/include-what-you-use-0.7-x86-win32.zi
 
 ## Mapping files
 
-todo
+* stl.c.headers.mp 
+Mapping for C++ wrappers around C files, straight from the [iwyu repository](https://raw.githubusercontent.com/include-what-you-use/include-what-you-use/master/stl.c.headers.imp)
