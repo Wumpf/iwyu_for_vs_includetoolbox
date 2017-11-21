@@ -9,8 +9,8 @@ Any other files provided in this repository are under public domain.
 
 ## Current version
 
-Official Release, 0.7
-https://include-what-you-use.org/downloads/include-what-you-use-0.7-x86-win32.zip
+Official Release, 0.8
+https://include-what-you-use.org/downloads/include-what-you-use-0.8-x86-win32.zip
 
 ## Mapping files
 
